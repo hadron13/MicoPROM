@@ -1,0 +1,5 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+A1,Arduino_Nano,1,Arduino_Nano_v3.x,
+"H1, H2, H3, H4",MountingHole_2.2mm_M2_Pad_Via,4,MountingHole_Pad,
+"U1, U2",DIP-16_W7.62mm_Socket_LongPads,2,74HC595,
+U3,DIP_Socket-28_W11.9_W12.7_W15.24_W17.78_W18.5_3M_228-1277-00-0602J,1,28C256,
