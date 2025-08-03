@@ -1,6 +1,8 @@
 # MicoPROM (V3)
 This is a simple 28C256 EEPROM programmer PCB I made and manufactured in 2024 via JLCPCB.
 
+Sadly the original KiCAD files were lost, only the gerber is available, although it's ready for manufacture.
+
 ## Hardware
 The used components are:
 - 1x Arduino Nano
